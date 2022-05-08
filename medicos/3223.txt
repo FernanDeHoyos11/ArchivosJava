@@ -1,0 +1,5 @@
+id=3223
+nombre=fernando
+telefono=2323434
+edad=26
+especialisacion=internistas

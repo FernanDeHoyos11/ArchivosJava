@@ -1,0 +1,5 @@
+id=321
+nombre=fernan
+telefono=32344456
+edad=37
+especialisacion=internistas

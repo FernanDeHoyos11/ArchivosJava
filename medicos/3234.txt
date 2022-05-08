@@ -1,0 +1,5 @@
+id=3234
+nombre=jose
+telefono=32344456
+edad=39
+especialisacion=general
